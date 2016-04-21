@@ -1,3 +1,2 @@
 # flatBike
-OpenHW Plywood Motorcycle
-asd
+OpenHW Plywood Motorcycle - CC-BY-SA
